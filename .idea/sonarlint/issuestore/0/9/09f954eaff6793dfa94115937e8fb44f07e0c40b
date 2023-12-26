@@ -1,0 +1,11 @@
+
+m	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¦èúÒ8Å’ßËÉ1
+r	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ô÷êşÿÿÿÿ8Å’ßËÉ1
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(äİúƒşÿÿÿÿ8Æ’ßËÉ1
+c
+java:S1854("ARemove this useless assignment to local variable "responseBody1".(È»ıœùÿÿÿÿ8Ë’ßËÉ1
+T
+java:S1481("2Remove this unused "responseBody1" local variable.(È»ıœùÿÿÿÿ8Ø’ßËÉ1
+L	java:S106."+Replace this use of System.out by a logger.(÷ğ€­ÿÿÿÿÿ8Ù’ßËÉ1
+W
+java:S1128"5Remove this unused import 'com.rms.Order.entity.Vdc'.(ÇÀ¦†ûÿÿÿÿ8Æ»ßËÉ1

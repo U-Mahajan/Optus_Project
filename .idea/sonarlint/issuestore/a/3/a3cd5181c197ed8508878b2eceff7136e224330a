@@ -1,0 +1,25 @@
+
+k
+java:S1192"ODefine a constant instead of duplicating this literal "OrderRequestid" 3 times.(œÌ¸n8ó´°…Ê1
+m	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¦èúÒ8¤Ó¦…Ê1
+r	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ÿ“Šþùÿÿÿÿ8¥Ó¦…Ê1
+m	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‰»ú½8¥Ó¦…Ê1
+l	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(œÌ¸n8¥Ó¦…Ê1
+r	java:S117("QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÍØ²Ÿüÿÿÿÿ8¥Ó¦…Ê1
+l	java:S117*"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(œÌ¸n8ô´°…Ê1
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(éŽ–×ûÿÿÿÿ8§Ó¦…Ê1
+]
+java:S1854&"@Remove this useless assignment to local variable "responseBody".(ÿÁ°¼8ÉÓ¦…Ê1
+]
+java:S18546"@Remove this useless assignment to local variable "responseBody".(ÿÁ°¼8ÉÓ¦…Ê1
+_
+java:S1854("=Remove this useless assignment to local variable "rand_int1".(ÍØ²Ÿüÿÿÿÿ8£«±…Ê1
+N
+java:S1481&"1Remove this unused "responseBody" local variable.(ÿÁ°¼8×Ó¦…Ê1
+P
+java:S1481(".Remove this unused "rand_int1" local variable.(ÍØ²Ÿüÿÿÿÿ8¶«±…Ê1
+X	java:S125)"<This block of commented-out lines of code should be removed.(³Óÿâ8¶«±…Ê1
+N
+java:S14816"1Remove this unused "responseBody" local variable.(ÿÁ°¼8ÙÓ¦…Ê1
+_
+java:S1128"=Remove this unused import 'com.rms.Order.entity.OrderDetail'.(Ñ³Ôÿÿÿÿÿ8º«±…Ê1

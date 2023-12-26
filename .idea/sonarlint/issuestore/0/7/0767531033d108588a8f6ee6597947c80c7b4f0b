@@ -1,0 +1,6 @@
+
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(€¤Îñ8éØ©ËÉ1
+_
+java:S1128"=Remove this unused import 'com.rms.Order.entity.OrderDetail'.(Ñ³Ôÿÿÿÿÿ8îØ©ËÉ1
+h
+java:S1128"FRemove this unused import 'org.springframework.stereotype.Repository'.(¦ıÍıüÿÿÿÿ8ïØ©ËÉ1

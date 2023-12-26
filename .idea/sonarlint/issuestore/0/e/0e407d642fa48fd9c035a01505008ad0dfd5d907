@@ -1,0 +1,11 @@
+
+r	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ûÂ·æıÿÿÿÿ8’àÎ„Ê1
+m	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‰»ú½8“àÎ„Ê1
+l	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(œÌ¸n8“àÎ„Ê1
+l	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(œÌ¸n8†ÊÚ„Ê1
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(é–×ûÿÿÿÿ8”àÎ„Ê1
+`
+java:S1854">Remove this useless assignment to local variable "ECMRequest".(ûÂ·æıÿÿÿÿ8™àÎ„Ê1
+Q
+java:S1481"/Remove this unused "ECMRequest" local variable.(ûÂ·æıÿÿÿÿ8™àÎ„Ê1
+G	java:S106"+Replace this use of System.out by a logger.(Ÿ˜ıŠ8›àÎ„Ê1

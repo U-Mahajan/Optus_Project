@@ -1,0 +1,11 @@
+
+m	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Æêº£8ï«‚£É1
+m	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Æêº£8ï«‚£É1
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Š‚ÏÔøÿÿÿÿ8ğ«‚£É1
+m
+java:S3655"PCall "Optional#isPresent()" or "!Optional#isEmpty()" before accessing the value.(Î±ÜÑ8¯ª¤³É1
+j	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Æêº£8÷«‚£É1
+_
+java:S1128"=Remove this unused import 'com.rms.Order.entity.OrderDetail'.(Ñ³Ôÿÿÿÿÿ8ºª¤³É1
+b
+java:S1128"ERemove this unused import 'com.rms.Order.repository.OrderRepository'.(¹¸©†8ºª¤³É1

@@ -1,0 +1,14 @@
+
+l
+java:S1192"ODefine a constant instead of duplicating this literal "OrderRequestid" 3 times.(‰΅8ΞθΪΙ1
+m	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ρ¥φ8ΞθΪΙ1
+r	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ΰώ όÿÿÿÿ8ΞθΪΙ1
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(δέϊƒώÿÿÿÿ8ΟθΪΙ1
+d
+java:S1854"BRemove this useless assignment to local variable "OrderRequestid".(ΰώ όÿÿÿÿ8ΫθΪΙ1
+[
+java:S1854">Remove this useless assignment to local variable "ECMRequest".(ρ¥φ8ΫθΪΙ1
+L
+java:S1481"/Remove this unused "ECMRequest" local variable.(ρ¥φ8άθΪΙ1
+U
+java:S1481"3Remove this unused "OrderRequestid" local variable.(ΰώ όÿÿÿÿ8έθΪΙ1

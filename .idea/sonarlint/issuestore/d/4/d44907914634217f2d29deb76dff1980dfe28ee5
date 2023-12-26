@@ -1,0 +1,24 @@
+
+q
+java:S1192"ODefine a constant instead of duplicating this literal "order_approved" 3 times.(ãöğ™üÿÿÿÿ8¶È•†É1
+n
+java:S1192"LDefine a constant instead of duplicating this literal "orderStatus" 3 times.(ÚŠƒŠşÿÿÿÿ8·È•†É1
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(äİúƒşÿÿÿÿ8¸È•†É1
+_
+java:S1854"=Remove this useless assignment to local variable "eventName".(ãöğ™üÿÿÿÿ8ÂÈ•†É1
+\
+java:S1854"?Remove this useless assignment to local variable "executionId".(İª‰ü8ÂÈ•†É1
+W
+java:S1854";Remove this useless assignment to local variable "results".(ÔøòS8ÂÈ•†É1
+W
+java:S1854";Remove this useless assignment to local variable "results".(ÔøòS8ÂÈ•†É1
+M
+java:S1481"0Remove this unused "executionId" local variable.(İª‰ü8ÄÈ•†É1
+P
+java:S1481".Remove this unused "eventName" local variable.(ãöğ™üÿÿÿÿ8ÄÈ•†É1
+H
+java:S1481",Remove this unused "results" local variable.(ÔøòS8ÅÈ•†É1
+H
+java:S1481",Remove this unused "results" local variable.(ÔøòS8ÆÈ•†É1
+_
+java:S1128"BRemove this unused import 'org.camunda.bpm.engine.ProcessEngines'.(ü‚¼À8ÆÈ•†É1

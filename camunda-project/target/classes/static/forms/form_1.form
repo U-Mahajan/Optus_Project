@@ -1,0 +1,27 @@
+{
+  "components": [
+    {
+      "label": "Vdc Repeated",
+      "type": "textfield",
+      "id": "Field_1v7552w",
+      "key": "vdcStatus",
+      "validate": {
+        "regularExpressionPattern": "america|pune",
+        "required": false
+      },
+      "layout": {
+        "row": "Row_1xf841d"
+      },
+      "properties": {}
+    }
+  ],
+  "type": "default",
+  "id": "form_1",
+  "exporter": {
+    "name": "Camunda Modeler",
+    "version": "5.16.0"
+  },
+  "executionPlatform": "Camunda Platform",
+  "executionPlatformVersion": "7.17.0",
+  "schemaVersion": 11
+}

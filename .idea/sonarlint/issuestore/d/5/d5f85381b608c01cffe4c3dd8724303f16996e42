@@ -1,0 +1,8 @@
+
+m	java:S1175"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(êƒÙô8ŠáÛÈ1
+m	java:S117="QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(şˆŞš8‹áÛÈ1
+r	java:S117E"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¶‚ßÁøÿÿÿÿ8‹áÛÈ1
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ºìİşÿÿÿÿ8ù¬º¸È1
+l	java:S116"WRename this field "ECMRequestid" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(­‘òÎ
+s	java:S116"YRename this field "ECMRequestType" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(­¤¬şùÿÿÿÿ
+j	java:S116"URename this field "ECMRequest" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ºëÊò

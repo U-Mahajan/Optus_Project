@@ -1,0 +1,20 @@
+
+m	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ùÕ÷¨8 ÌœÛÉ1
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(äİúƒşÿÿÿÿ8¢ÌœÛÉ1
+^
+java:S2259"AA "NullPointerException" could be thrown; "vdc" is nullable here.(Ş…×Ş8²ÌœÛÉ1
+_
+java:S1854"BRemove this useless assignment to local variable "requestEntity1".(¾¦ñ8µÌœÛÉ1
+^
+java:S1854"BRemove this useless assignment to local variable "orderHandlerid".(Å³t8€·ÏÛÉ1
+G
+java:S1659"*Declare "restTemplate" on a separate line.(ùÕ÷¨8¶ÌœÛÉ1
+O
+java:S1481"3Remove this unused "orderHandlerid" local variable.(Å³t8‚·ÏÛÉ1
+P
+java:S1481"3Remove this unused "requestEntity1" local variable.(¾¦ñ8¾ÌœÛÉ1
+G	java:S106"+Replace this use of System.out by a logger.(Ş…×Ş8¿ÌœÛÉ1
+_
+java:S1128"=Remove this unused import 'com.rms.Order.entity.OrderDetail'.(Ñ³Ôÿÿÿÿÿ8¿ÌœÛÉ1
+L
+java:S1128"*Remove this unused import 'java.util.Map'.(¼è½Òşÿÿÿÿ8¿ÌœÛÉ1

@@ -1,0 +1,22 @@
+{
+  "components": [
+    {
+      "label": "Exception in Order",
+      "type": "textfield",
+      "id": "Field_0ptiphc",
+      "key": "message",
+      "layout": {
+        "row": "Row_1aekm5z"
+      }
+    }
+  ],
+  "type": "default",
+  "id": "form_2",
+  "exporter": {
+    "name": "Camunda Modeler",
+    "version": "5.16.0"
+  },
+  "executionPlatform": "Camunda Platform",
+  "executionPlatformVersion": "7.17.0",
+  "schemaVersion": 11
+}
